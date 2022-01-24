@@ -2275,6 +2275,12 @@ span.press {
     margin-bottom: 30px;
 }
 
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
 /* =Single Project
 -------------------------------------------------------------- */
 .single-project-slider {
